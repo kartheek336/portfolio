@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kartheek Mekalavalla - Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(145deg, #dff9fb, #f1f2f6);
+    }
+    .container {
+      max-width: 960px;
+      margin: 50px auto;
+      padding: 30px;
+      background: #ffffff;
+      box-shadow: 0 20px 30px rgba(0,0,0,0.1);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 5px;
+      color: #273c75;
+    }
+    h2 {
+      font-size: 1.4em;
+      margin-top: 30px;
+      border-bottom: 2px solid #dcdde1;
+      padding-bottom: 5px;
+      color: #40739e;
+    }
+    ul {
+      padding-left: 20px;
+      line-height: 1.7;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact, .resume {
+      background: #f5f6fa;
+      border-left: 4px solid #00a8ff;
+      padding: 10px 20px;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Kartheek Mekalavalla</h1>
+    <div class="contact">
+      <p>
+        <strong>Official Email:</strong> <a href="mailto:kmekalavallabtech22@ced.alliance.edu.in">kmekalavallabtech22@ced.alliance.edu.in</a><br>
+        <strong>Personal Email:</strong> <a href="mailto:kartheekm639@gmail.com">kartheekm639@gmail.com</a><br>
+        <strong>Phone:</strong> +91-6300680180<br>
+        <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/kartheek-m-670b03348/">kartheek-m</a><br>
+        <strong>GitHub:</strong> <a href="https://github.com/kartheek336">kartheek336</a> |
+        <strong>LeetCode:</strong> <a href="https://leetcode.com/u/Kartheek639/">Kartheek639</a><br>
+        <strong>HackerRank:</strong> <a href="https://www.hackerrank.com/profile/kartheekm639">kartheekm639</a> |
+        <strong>StopStalk:</strong> <a href="https://www.stopstalk.com/user/profile/kartheekm639">kartheekm639</a>
+      </p>
+    </div>
+
+    <h2>🎓 Education</h2>
+    <ul>
+      <li>B.Tech CSE, Alliance University (2026) – CGPA: 7.5</li>
+      <li>12th – Mother Theressa Jr. College, Palamaneru (2022) – 69%</li>
+      <li>10th – Vikas Public E.M High School, Punganuru (2020) – 99%</li>
+    </ul>
+
+    <h2>💻 Technical Skills</h2>
+    <ul>
+      <li>C, Java, HTML, CSS, JavaScript, React, Node.js</li>
+      <li>MySQL, MongoDB</li>
+      <li>GitHub, Linux, VS Code</li>
+      <li>Microsoft Azure, AWS (Basics), OOPs</li>
+    </ul>
+
+    <h2>📂 Projects</h2>
+    <ul>
+      <li><strong>Facial Emotion Recognition:</strong> Real-time detection using OpenCV + Deepface.</li>
+      <li><strong>Credit Card Processing System:</strong> Finance web tracker with PHP, JS, SQL (XAMPP).</li>
+    </ul>
+
+    <h2>📜 Certifications</h2>
+    <ul>
+      <li>Microsoft Azure Fundamentals AZ-900 (2025)</li>
+      <li>Compiler Design – NPTEL (2025)</li>
+      <li>Operating System – Coursera (2024)</li>
+      <li>Google Cloud Cybersecurity – Coursera (2025)</li>
+      <li>Programming in C++ – Coursera (2023)</li>
+    </ul>
+
+    <h2>🏆 Achievements</h2>
+    <ul>
+      <li>Top 1% on Coursera (2025)</li>
+      <li>Microsoft Certified (AZ-900)</li>
+      <li>100+ HackerRank Problems Solved</li>
+    </ul>
+
+    <div class="resume">
+      <strong>📄 Resume:</strong>
+      <a href="M Kartheek Resume 1(336).pdf" target="_blank">Click here to view/download PDF</a>
+    </div>
+  </div>
+</body>
+</html>
